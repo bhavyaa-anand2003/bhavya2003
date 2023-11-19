@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "hello",
+      "complted": false,
+      "id": 2
+    },
+    {
+      "title": "bhavya",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "bhavya",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
